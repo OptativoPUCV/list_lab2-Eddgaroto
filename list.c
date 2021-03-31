@@ -53,7 +53,6 @@ void * nextList(List * list) {
 }
 
 void * lastList(List * list) {
-  if (list == NULL){return NULL;}
   if (list->tail == NULL){
     return NULL;
     }
