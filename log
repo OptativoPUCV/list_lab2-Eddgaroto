@@ -84,3 +84,9 @@ Thu Apr  1 00:50:38 UTC 2021:
  tests:  11|1
 total_score: 55/70
 6cb1516
+Thu Apr  1 01:23:42 UTC 2021: 
+ list.c | 26 +++++++++++++++++++++++++-
+ 1 file changed, 25 insertions(+), 1 deletion(-)
+ tests:  11|1
+total_score: 55/70
+a059efb
